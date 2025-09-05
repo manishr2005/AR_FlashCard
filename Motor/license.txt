@@ -1,0 +1,11 @@
+Model Information:
+* title:	Motor DC animation
+* source:	https://sketchfab.com/3d-models/motor-dc-animation-11bb9b2605d84a57aadc04d8654096da
+* author:	davidlecardinal (https://sketchfab.com/davidlecardinal)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Motor DC animation" (https://sketchfab.com/3d-models/motor-dc-animation-11bb9b2605d84a57aadc04d8654096da) by davidlecardinal (https://sketchfab.com/davidlecardinal) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
